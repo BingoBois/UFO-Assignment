@@ -24,7 +24,7 @@ _
 
 *   _Question 3:_
 
-[Question3ImageScale](https://github.com/BingoBois/UFO-Assignment/blob/master/Q3Scale-GenerelInformation.png)
+![Question3ImageScale](https://github.com/BingoBois/UFO-Assignment/blob/master/Q3Scale-GenerelInformation.png)
 
 
 ![alt_text](images/Ufo-41.png "image_tooltip")
@@ -34,7 +34,7 @@ _
     *   Nothing to comment
 *   _Question 5_
 
-[Question5ImageScale](https://github.com/BingoBois/UFO-Assignment/blob/master/Q5Scale-TechSection.png)
+![Question5ImageScale](https://github.com/BingoBois/UFO-Assignment/blob/master/Q5Scale-TechSection.png)
     
 
 *   _Question 6: What was the hardest part to understand about the technology section? \
@@ -50,7 +50,7 @@ _
 *   _Question 8: How would you rate this questionnaire on a scale from 1 to 5_
 
     
-[Question8ImageScale](https://github.com/BingoBois/UFO-Assignment/blob/master/Q8Scale-RateQuestions.png)
+![Question8ImageScale](https://github.com/BingoBois/UFO-Assignment/blob/master/Q8Scale-RateQuestions.png)
 
 
 *   _Question 9: Additional Notes to the questionnaire_
@@ -113,10 +113,6 @@ As for the third answer, while we did provide a exhausted list of all of the pro
         
 
 *   **Question 4:**
-
-	
-
-
 
 1.  _Configuring Proxy_
 
