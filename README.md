@@ -1,23 +1,15 @@
 #### Hand-in
 
-As usual I recommend you to put your hand-in on github. The hand-in must contain:
-
-
-
 *   **List of questions, or link to the questionaire.**
     *   [https://docs.google.com/forms/d/10-jmVm4UdAqeX4Mi540RJrilu_AEbil5jigv6I3Dr6E/edit?ts=5bec1dee#responses](https://docs.google.com/forms/d/10-jmVm4UdAqeX4Mi540RJrilu_AEbil5jigv6I3Dr6E/edit?ts=5bec1dee#responses)
 
-    **An appendix with the actual answers** \
+    **An appendix with the actual answers** 
 
 
 *   _Question 1:_
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Ufo-40.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Ufo-40.png "image_tooltip")
+![Question1ImageScale](https://github.com/BingoBois/UFO-Assignment/blob/master/Q1Scale-APIDescription.png)
 
 
 
@@ -32,7 +24,7 @@ _
 
 *   _Question 3:_
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Ufo-41.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+[Question3ImageScale](https://github.com/BingoBois/UFO-Assignment/blob/master/Q3Scale-GenerelInformation.png)
 
 
 ![alt_text](images/Ufo-41.png "image_tooltip")
@@ -42,15 +34,7 @@ _
     *   Nothing to comment
 *   _Question 5_
 
-    
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Ufo-42.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Ufo-42.png "image_tooltip")
-
-
-
+[Question5ImageScale](https://github.com/BingoBois/UFO-Assignment/blob/master/Q5Scale-TechSection.png)
     
 
 *   _Question 6: What was the hardest part to understand about the technology section? \
@@ -66,11 +50,7 @@ _
 *   _Question 8: How would you rate this questionnaire on a scale from 1 to 5_
 
     
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Ufo-43.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Ufo-43.png "image_tooltip")
+[Question8ImageScale](https://github.com/BingoBois/UFO-Assignment/blob/master/Q8Scale-RateQuestions.png)
 
 
 *   _Question 9: Additional Notes to the questionnaire_
@@ -111,11 +91,7 @@ For the second answer, we are a bit baffled by the statement. When we were assig
     *   Instructions on how to post issues or questions.
 
 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Ufo-44.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Ufo-44.png "image_tooltip")
+![DocumentatitionHandOverDocumentation](https://github.com/BingoBois/UFO-Assignment/blob/master/groupdocudocu.png)
 
 
 _The Facebook-message hand-in over the information regarding the project to the monitor group._
