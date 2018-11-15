@@ -192,5 +192,6 @@ For the third answer, the team recognizes that the documentation needed a better
     *   1-2 hours setting up the documentation in each repo
     *   1 hour on Survey
     *   4-5 hours reflecting on the survey
-    *   Total: About 11-13 hours
     *   + 4-5 hours to update the existing documentation with the given feedback.
+    *   Total: About 15-18 hours
+
