@@ -3,10 +3,10 @@
 *   **List of questions, or link to the questionaire.**
     *   [https://docs.google.com/forms/d/10-jmVm4UdAqeX4Mi540RJrilu_AEbil5jigv6I3Dr6E/edit?ts=5bec1dee#responses](https://docs.google.com/forms/d/10-jmVm4UdAqeX4Mi540RJrilu_AEbil5jigv6I3Dr6E/edit?ts=5bec1dee#responses)
 
-    **An appendix with the actual answers** 
+*    **An appendix with the actual answers** 
 
 
-*   _Question 1:_
+*   Question 1:
 
 
 ![Question1ImageScale](https://github.com/BingoBois/UFO-Assignment/blob/master/Q1Scale-APIDescription.png)
@@ -14,46 +14,46 @@
 
 
 
-*   _Question 2: What was the hardest part of the API description to understand \
-_
+*   Question 2: What was the hardest part of the API description to understand 
+
     *   The hardest part is to get an overview. There's a lot of documentation. It's well formulated but not always clear of where to find what we need.
     *   I couldn´t find a general API documentention
     *   Which parameter the post method is exepecting to get
 
     
 
-*   _Question 3:_
+*   Question 3:
 
 ![Question3ImageScale](https://github.com/BingoBois/UFO-Assignment/blob/master/Q3Scale-GenerelInformation.png)
 
 
-![alt_text](images/Ufo-41.png "image_tooltip")
-
-*   _Question 4: What was the hardest part of the general information section to understand?_
+*   Question 4: What was the hardest part of the general information section to understand?_
     *   Configuring Proxy
     *   Nothing to comment
-*   _Question 5_
+    
+*   Question 5
 
 ![Question5ImageScale](https://github.com/BingoBois/UFO-Assignment/blob/master/Q5Scale-TechSection.png)
     
 
-*   _Question 6: What was the hardest part to understand about the technology section? \
-_
+*   Question 6: What was the hardest part to understand about the technology section? 
+
     *   Test Environment
     *   The overall architecture
-*   _Question 7: Is there anything you would have done differently in regards to the project setup documentation? \
-_
+    
+*   Question 7: Is there anything you would have done differently in regards to the project setup documentation? 
+
     *   Not really. Even though it's not that easy to setup everything, since I can't seem to find a simple way to start everything locally.
     *   I would make separated ReadMe for each project
-    *   Maybe a content table would be great. \
+    *   Maybe a content table would be great. 
 
-*   _Question 8: How would you rate this questionnaire on a scale from 1 to 5_
+*   Question 8: How would you rate this questionnaire on a scale from 1 to 5_
 
     
 ![Question8ImageScale](https://github.com/BingoBois/UFO-Assignment/blob/master/Q8Scale-RateQuestions.png)
 
 
-*   _Question 9: Additional Notes to the questionnaire_
+*   Question 9: Additional Notes to the questionnaire
 
     0 svar
 
@@ -65,19 +65,17 @@ _
 Despite a limited amount of answered surveys to work from, a lot of adjustments and conclusions can be drawn. \
 
 
-
-
 *   **Question 1:**
-    *   _On a scale from 1 to 5, how easy was the API description to understand?_
+    *   On a scale from 1 to 5, how easy was the API description to understand?
     *   1 person selected "3", while 2 selected "4"
-    *   When asking for a user to give a rating, like on a 1 to 5 scale, it is important to specify what the high and low values represent, like the following example: "**_On a scale of 1 to 5, where 1 is good and 5 is bad, rate your experience with X_**". We obviously failed to provide such an instruction for our 3 questions where we asked for such ratings.
+    *   When asking for a user to give a rating, like on a 1 to 5 scale, it is important to specify what the high and low values represent, like the following example: "**On a scale of 1 to 5, where 1 is good and 5 is bad, rate your experience with X**". We obviously failed to provide such an instruction for our 3 questions where we asked for such ratings.
     *   Our reading of the scale is that the persons found the API description more harder to understand, than easy. This is probably due to the lack of an easy and simple overview, better layout, and more details regarding the API's, such as parameters. 
 *   **Question 2:**
-1.  _The hardest part is to get an overview. There's a lot of documentation. It's well formulated but not always clear of where to find what we need._
-1.  _I couldn´t find a general API documentention_
-1.  _Which parameter the post method is exepecting to get_
+1.  The hardest part is to get an overview. There's a lot of documentation. It's well formulated but not always clear of where to find what we need._
+2.  I couldn´t find a general API documentention_
+3.  Which parameter the post method is exepecting to get_
 
- \
+
 For the first answer, we agree that while the documentation was huge and well formulated, we should have spent some time setting up and arranging the layout of the google doc more clearly. This could easily have been achieved by making an index list of all the topics in the document and more clearly define each chapter/section.
 
 For the second answer, we are a bit baffled by the statement. When we were assigned a monitor group, we delivered them the following components:
